@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning SQL, Machine Learning and Scala.
 - 👯 I’m looking to collaborate on ...
 - 📫 Write me an email: jakubrybka112@gmail.com
--->
